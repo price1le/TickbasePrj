@@ -1,0 +1,13 @@
+---
+title: "Simulating Dog Tick Abundance"
+author: "Lucas Price"
+date: "2023-03-20"
+output: html_document
+---
+
+```{r}
+y<- abs(round(rnorm(9, mean=50, sd=22),digits = 0))
+y
+min(y)
+hist(y)
+```

@@ -1,0 +1,5 @@
+Relative Humidity
+https://madis.noaa.gov/
+
+NDVI Access
+https://earthexplorer.usgs.gov/
